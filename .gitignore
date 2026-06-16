@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/input/*
+data/output/*
+data/checkpoint/*
+
+!.gitkeep
